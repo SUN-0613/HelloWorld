@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{72054170-AA39-4F89-B343-A4985D90E5BD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/HelloWorldPage.xaml">
+    <Files>
+      <File FileName="HelloWorld/HelloWorldPage.xaml" Line="7" Column="31" />
+      <File FileName="HelloWorld/HelloWorldPage.xaml.cs" Line="20" Column="1" />
+      <File FileName="HelloWorld/CHello.cs" Line="35" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HelloWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.626412CE-20E3-434E-AF56-80DD603E7EFC">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.HelloWorld.iOS>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
