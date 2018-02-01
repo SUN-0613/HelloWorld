@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{E5852478-3812-C21F-7AD1-1DBFBF63C94D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HelloWorld.cs">
+    <Files>
+      <File FileName="Assets/HelloWorld.cs" Line="6" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
